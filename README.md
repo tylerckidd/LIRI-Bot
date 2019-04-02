@@ -12,4 +12,3 @@ liri.js can take in one of the following commands:
 1.  do-what-it-says
 
 It also gives you the following commands as options if no commands is found
-
