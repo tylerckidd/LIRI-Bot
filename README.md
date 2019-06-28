@@ -30,4 +30,4 @@ It also gives you the following commands as options if no commands is found
  "fs"
  "moment"
  "node-spotify-api"
-  }
+  
